@@ -1,2 +1,2 @@
 # SwiftUI_MyContacts
-Playing with swiftUI TableView, Image, Button, NavigationLink, NavigationView
+Playing with SwiftUI TableView, Image, Button, NavigationLink, NavigationView
